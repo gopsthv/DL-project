@@ -37,12 +37,6 @@ This project includes two files, each implementing one of the architectures:
 
 ## **Setup Instructions**
 
-### **1. Clone the Repository**
-Clone this repository to your local machine using:
-```bash
-git clone https://github.com/yourusername/deep-learning-models.git
-cd deep-learning-models
- ```
 
 ### **1. Install Dependencies**
 
@@ -77,13 +71,13 @@ python resnet18.py
 AlexNet consists of:
 
 1. 5 convolutional layers with increasing depth.
-2. 
-3. Max-pooling layers after certain convolutional layers.
-4. 
-5. Fully connected layers, with ReLU activations in between.
-6. 
-7. A Dropout layer after the first fully connected layer.
-8. 
+
+2. Max-pooling layers after certain convolutional layers.
+  
+3. Fully connected layers, with ReLU activations in between.
+  
+4. A Dropout layer after the first fully connected layer.
+ 
 Example Output of Model Summary:
 
 
